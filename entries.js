@@ -13,6 +13,11 @@
 
 const entries = [
 	{
+		title: "Downloads",
+		filename: "downloads.html",
+		description: "Page downloads"
+	},
+	{
 		title: "Car Game",
 		filename: "mini_car_game.html",
 		description: "simple car racing game, collecting energys on road, speeds up as many energy consumed, slow down if miss energy on road. driving is unlimited"
