@@ -23,11 +23,6 @@ const entries = [
 		description: "simple car racing game, collecting energys on road, speeds up as many energy consumed, slow down if miss energy on road. driving is unlimited"
 	},
 	{
-		title: "Moon and stars Effect.",
-		filename: "color-change-on-hover-objects.html",
-		description: "Moon and stars showing a twinkiling effect. The background also turns to night view upon hovering over the moon, stars or the body."
-	},
-	{
 		title: "Color Clock",
 		filename: "colorclock.html",
 		description: "Shows you the time with a lovely background generated from the current time."
