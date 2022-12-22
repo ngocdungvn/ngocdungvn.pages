@@ -2,7 +2,7 @@
 
 The goal is to create anything you want within 1 single html file. Practice your skills with the barebones of web development. **How creative can you be with such restrictions?**
 
-### [View Submissions](https://onehtmlpagechallenge.com)
+### [View Submissions](https://ngocdung.cf)
 
 ## Rules
  - You must write all of your code in 1 single HTML file.
