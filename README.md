@@ -11,7 +11,3 @@ The goal is to create anything you want within 1 single html file. Practice your
  - Due to the nature of hiding lots of functionality behind APIs, you cannot have any incoming or outgoing network requests.
  - You are allowed to use libraries, however the library must be hard coded into a script tag and still must fit under the 1MB file size. (I suggest using a cdn and replacing with hardcoding the minified library at the end, or use [JSCompress](https://jscompress.com/)).
  
-## Contributors
-<a href="https://github.com/Metroxe/one-html-page-challenge/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Metroxe/one-html-page-challenge" />
-</a>
