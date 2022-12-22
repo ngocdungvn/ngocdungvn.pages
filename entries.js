@@ -28,12 +28,6 @@ const entries = [
 		description: "Shows you the time with a lovely background generated from the current time."
 	},
 	{
-		title: "Tile game",
-		filename: "tiles.html",
-		description: "Tile ordering game."
-	},
-
-	{
 		title: "Fishies",
 		filename: "fishies.html",
 		description: "Spawn fishies and let your fishie grow!"
